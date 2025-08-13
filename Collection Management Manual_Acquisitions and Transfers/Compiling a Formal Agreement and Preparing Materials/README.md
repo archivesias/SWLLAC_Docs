@@ -1,0 +1,4 @@
+Compiling a Formal Agreement and Preparing Materials for Transfer
+After completing the evaluation of each prospective acquisition, the Archivist will determine whether or not to move forward with a formal agreement. For Transfers, the Archivist will assist Institutional partners in filling out a Transfer Request Form. For Donations, the Archivists will draft either a Deed of Gift or Memorandum of Understanding. Each of these documents can be found as appendices to this manual. 
+
+In most instances, the Archivist will additionally provide creators with Guidelines for Preparing Materials for Transfer to Archives and a Basic Inventory Template. Creators will notify the Archivist when materials are ready to be transferred into the custody of the Archives Center. (At times, the Archivist may provide assistance in this step.)
