@@ -29,6 +29,5 @@
 <li>Paper-based documents and ephemera, and
 <li>Prints and photographs, among others.</li> 
 </ul>
-<p>We additionally accept artwork and three-dimensional objects on a case-by-case basis where the Archives Center can responsibly ensure our ability to provide unique storage and preservation requirements necessary to sustain and provide access to that material.<img width="468" height="61" alt="image" src="https://github.com/user-attachments/assets/0fd9f581-cc6e-4000-be88-1cb92da09f59" />
-</p>
+<p>We additionally accept artwork and three-dimensional objects on a case-by-case basis where the Archives Center can responsibly ensure our ability to provide unique storage and preservation requirements necessary to sustain and provide access to that material.</p>
 
