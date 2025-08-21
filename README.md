@@ -1,3 +1,3 @@
 # SWLLAC_Docs
-<h1>Shelby White &amp; Leon Levy Archives Center Policy Hub</h1>
-<p>This repository provides access to collection management policies from the Institute for Advanced Study Shelby WHite and Leon Levy Archives Center. The Archives Center aims to provide access to policy to support professional transparency and sharing among archival institutions.</p>
+<h1>Shelby White &amp; Leon Levy Archives Center Documentation Hub</h1>
+<p>This repository provides access to collection management policies from the Institute for Advanced Study Shelby White and Leon Levy Archives Center. The Archives Center aims to provide transparent access to local collection development and management policies for  archival professionals and users alike. Professionals are free to copy and reuse documentation for local institutions. Those interested in learning more can visit the Archives Center's <a href="https://www.ias.edu/library/archives">website.</a></p>
